@@ -1,12 +1,14 @@
+@import url('theme.css') screen and (prefers-color-scheme: dark);
+
 /* Custom style for Jenkins */
 .logo img {
     content:url(logo.png);
     /*change the path to your logo path*/
-    }
-    #jenkins-name-icon {
+}
+#jenkins-name-icon {
     display: none;
-    }
-    .logo:after {
+}
+.logo:after {
     content: ‘Production IT Automations’;
     font-weight: bold;
     font-size: 40px;
@@ -15,4 +17,4 @@
     margin-right: 12px;
     color: Aqua;
     line-height: 40px;
-    }
+}
