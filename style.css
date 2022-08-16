@@ -1,0 +1,18 @@
+/* Custom style for Jenkins */
+.logo img {
+    content:url(logo.png);
+    /*change the path to your logo path*/
+    }
+    #jenkins-name-icon {
+    display: none;
+    }
+    .logo:after {
+    content: ‘Production IT Automations’;
+    font-weight: bold;
+    font-size: 40px;
+    font-family:”Brush Script MT”, cursive;
+    margin-left: 200px;
+    margin-right: 12px;
+    color: Aqua;
+    line-height: 40px;
+    }
