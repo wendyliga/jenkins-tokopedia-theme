@@ -2,7 +2,7 @@
 
 /* Custom style for Jenkins */
 .logo img {
-    content:url(logo.png);
+    content:url(https://raw.githubusercontent.com/wendyliga/jenkins-tokopedia-theme/main/logo.png);
     /*change the path to your logo path*/
 }
 #jenkins-name-icon {
