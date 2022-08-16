@@ -1,9 +1,8 @@
-@import url('https://camalot.github.io/jenkins-dark-stylish/jenkins-dark.min.css');
+@import url('https://cdn.jsdelivr.net/gh/jenkinsci/dark-theme@155.v497c78bbdbb3/src/main/resources/io/jenkins/plugins/darktheme/theme-system.css');
 
 /* Custom style for Jenkins */
 .logo img {
     content:url('https://raw.githubusercontent.com/wendyliga/jenkins-tokopedia-theme/main/logo.png');
-    /*change the path to your logo path*/
 }
 #jenkins-name-icon {
     display: none;
